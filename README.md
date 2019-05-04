@@ -7,12 +7,12 @@
 
 # Readme.md
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://cdn-images-1.medium.com/max/1200/1*0Y-h9R3ebygBLJMxmZ9VZA.jpeg)
 
 ![](https://img.shields.io/github/issues/JusperLee/Deep-Learning.svg) ![](https://img.shields.io/github/forks/JusperLee/Deep-Learning.svg) ![](https://img.shields.io/github/stars/JusperLee/Deep-Learning.svg) ![](https://img.shields.io/github/license/JusperLee/Deep-Learning.svg)
 
-###**Table of Contents**
-##### * /HW1*  is the value used to predict PM2.5 using regression. The numpy recurring Adam optimizer used here.
+###Table of Contents
+##### /HW1  is the value used to predict PM2.5 using regression. The numpy recurring Adam optimizer used here.
 
 
 
